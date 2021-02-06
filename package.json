@@ -1,0 +1,23 @@
+{
+  "name": "email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poojashiroya2199/Email.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Poojashiroya2199/Email/issues"
+  },
+  "homepage": "https://github.com/Poojashiroya2199/Email#readme",
+  "dependencies": {
+    "emailjs": "^3.4.0",
+    "emailjs-com": "^2.6.4"
+  }
+}
